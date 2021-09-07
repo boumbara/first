@@ -1,0 +1,1 @@
+{	name: "Blah", saySomething: function(a) {console.log("Blah blah" + a);}}
